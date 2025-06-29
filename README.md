@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Sidius
-- 👀 I’m interested in proframming, web development, architecturing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi! I'm a Laravel Developer with Backend Expertise & Database Design Skills
+🔧 Technical Stack:
 
-<!---
-Sidius/Sidius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend development with PHP (Laravel)
+
+Relational DB design & optimization (MySQL, PostgreSQL) – from schema architecture to indexing and replication
+
+Eloquent ORM, migrations, complex queries, and performance tuning
+
+Building REST APIs, payment integrations, and microservices
+
+Server management (Linux, Docker, Nginx)
+
+💼 Entrepreneurial Background:
+
+Founded and scaled a SaaS startup (full lifecycle from MVP to production)
+
+Hands-on experience in team leadership, client negotiations, and investor pitches
+
+Business-aware coding: I build solutions that drive revenue, not just features
+
+🚀 What Excites Me:
+
+High-load backend systems and database scalability challenges
+
+Clean, maintainable architecture with real-world impact
+
+Projects where tech meets business growth
+
+📫 Let’s Connect
